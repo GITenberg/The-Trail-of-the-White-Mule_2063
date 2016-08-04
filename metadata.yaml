@@ -1,0 +1,34 @@
+_repo: The-Trail-of-the-White-Mule_2063
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, B. M. (Bertha Muzzy)
+    - Sinclair, Bertha Muzzy
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: Equal parts daring and prone to disaster, B.M. Bower's beloved hero with
+  a heart of gold, Casey Ryan, is at it again in The Trail of the White Mule. Whether
+  he's veering through traffic at high speed in the boomtown of Los Angeles or pursuing
+  bootleggers in the country, Ryan always seems to find himself in the middle of a
+  maelstrom.
+gutenberg_bookshelf: Western
+gutenberg_issued: '2000-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2063'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'California -- Fiction'
+- !lcsh 'Western stories'
+- !lcsh 'Distilling, Illicit -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Trail of the White Mule
+url: http://www.gutenberg.org/ebooks/2063
